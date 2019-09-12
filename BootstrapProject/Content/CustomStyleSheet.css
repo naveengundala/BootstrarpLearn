@@ -1,0 +1,19 @@
+﻿.customDiv {
+    background-color: silver;
+    text-align: center;
+    margin: 3px;
+    min-height: 30px;
+    font-size: large;
+}
+
+.mainArea {
+    background-color: violet;
+    text-align: center;
+    margin: 3px;
+    min-height: 610px;
+    font-size: large;
+}
+
+hr{
+    border : solid blue;
+}
